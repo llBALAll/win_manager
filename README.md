@@ -1,7 +1,7 @@
 # Win_manager 
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Win_manager](https://github.com/llBALAll/win_manager/tree/master/README/win_manager.png)]((https://youtu.be/adZMPdaweZw?t=106 "Win_manager")
 
 ## Créditos
 [llBALAll](https://github.com/llBALAll)
