@@ -1,8 +1,7 @@
-# win_manager
-Run Resize and Reposition your Apps with 2 clicks
+# Process Memory Tools
 <h3 align="center">
   <img src="README/win_manager.png" alt="Logomarca" />
-  [![Alt text](README/win_manager.png)](https://youtu.be/adZMPdaweZw?t=106 "Run Resize and Reposition your Apps with 2 clicks")
+  [![Alt text](README/win_manager.png)](https://youtu.be/adZMPdaweZw?t=106)
 </h3>
 
 ## Créditos
